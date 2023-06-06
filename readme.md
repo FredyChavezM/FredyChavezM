@@ -27,5 +27,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PHOTOSHOP" alt="PHOTOSHOP" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="ILLUSTRATOR" alt="ILLUSTRATOR" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40">
 </div>
