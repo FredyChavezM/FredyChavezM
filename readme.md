@@ -5,12 +5,13 @@
     <h3 align="center">A passioante web fullstack developer student from Argentina.</h3>
 </div>
 
-<div align="center">
+
+<div>
     <h2>About me</h2>
-    <ul list-style="none">
+    <ul>
             <li>I like anime and gaming. Currenly reading One Piece and playing The Leyend of Zelda: TOTK</li>
             <li>I'm currenly learning Javascript.</li>
-            <li>How to reach me fredy.e.ch.m@gmail.com</li>
+            <li>How to reach me <a href="">fredy.e.ch.m@gmail.com</a> </li>
     </ul>
     
 </div>
