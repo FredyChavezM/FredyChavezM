@@ -22,11 +22,9 @@
     <h3>Lenguages and Tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40">
-    <img src="    https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg
-    " title="js" alt="js" width="40" height="40">
+    <img src="    https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="js" alt="js" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg
-    " title="bootstrap" alt="bootstrap" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PHOTOSHOP" alt="PHOTOSHOP" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="ILLUSTRATOR" alt="ILLUSTRATOR" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" alt="figma" width="40" height="40">
