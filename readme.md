@@ -7,7 +7,7 @@
 
 <div align="center">
     <h2>About me</h2>
-    <ul>
+    <ul style="list-style: none;">
             <li>I like anime and gaming. Currenly reading One Piece and playing The Leyend of Zelda: TOTK</li>
             <li>I'm currenly learning Javascript.</li>
             <li>How to reach me fredy.e.ch.m@gmail.com</li>
